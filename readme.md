@@ -1,5 +1,5 @@
-# Synapse'25 – Official Event Website  
-A modern, responsive, fully animated website built for **Synapse'25**, the annual technical fest featuring multiple coding and tech-based competitions.  
+# Synapse'26 – Official Event Website  
+A modern, responsive, fully animated website built for **Synapse'26**, the annual technical fest featuring multiple coding and tech-based competitions.  
 This project focuses on clean UI, smooth animations, mobile responsiveness, and an overall premium user experience.
 
 ---
